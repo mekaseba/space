@@ -1,0 +1,14 @@
+body {
+    color: white;
+    text-align: center;
+    background-image: url("tempspace.jpg");
+    background-size: cover;
+    font-family: 'Orbitron', sans-serif;
+}
+.btn {
+    padding: 6px 12px;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    font-family: inherit;
+}
